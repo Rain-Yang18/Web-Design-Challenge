@@ -15,4 +15,4 @@ In this project, a dashboard was create with HTML & CSS to share the analysis ou
 
 ## Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+Trilogy Education Services © 2021. All Rights Reserved.
